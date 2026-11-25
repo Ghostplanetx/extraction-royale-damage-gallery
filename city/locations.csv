@@ -652,7 +652,7 @@ Location,Tile,Source prefab instance,World X,World Y,World Z,Damage,Tile sibling
 651,104,PF_Megacity_Building_02,-121.143616,139.218719,246.743591,surface,1/1
 652,104,P_Megacity_OrnateWall_01_Merged (1),-203.12,60.7865143,162.73,surface,1/12
 653,104,P_Megacity_OrnateWall_01_Merged (3),-151.8589,60.78652,121.091072,previously approved,1/13
-654,104,P_MegaCity_BuildingMerged_01,-11.3351364,62.1975632,124.820175,Collapse,1/14
+654,104,P_MegaCity_BuildingMerged_01,-11.3351364,62.1975632,124.820175,surface,1/14
 655,104,PF_Megacity_Column_01 (3),-49.30005,60.5880051,82.69995,surface,1/21
 656,104,PF_Megacity_Column_01 (8),-12.5,60.5880051,96.30005,surface,1/22
 657,104,PF_Megacity_Column_01 (18),-54.0999756,60.5880051,-92.5999756,surface,1/23
@@ -666,10 +666,10 @@ Location,Tile,Source prefab instance,World X,World Y,World Z,Damage,Tile sibling
 665,104,P_Megacity_OrnateWallTower_01_Merged,-155.518555,53.3616028,26.0737267,surface,1/38
 666,104,P_Megacity_OrnateWallTower_01_Merged (1),-115.425552,53.3616028,-14.5849648,surface,1/39
 667,104,P_MegaCity_BuildingMerged_04,-143.744934,52.0272942,76.69431,surface,1/41
-668,104,P_MegaCity_BuildingMerged_5,63.1044235,55.71775,192.186508,Collapse,1/42
+668,104,P_MegaCity_BuildingMerged_5,63.1044235,55.71775,192.186508,surface,1/42
 669,104,P_MegaCity_BuildingMerged_5 (4),103.651314,56.3177643,263.887573,Collapse,1/43
 670,104,P_MegaCity_BuildingMerged_5 (1),50.3070679,55.71775,163.308945,Collapse,1/44
-671,104,P_MegaCity_BuildingMerged_5 (2),79.1846542,55.71775,150.5116,Collapse,1/45
+671,104,P_MegaCity_BuildingMerged_5 (2),79.1846542,55.71775,150.5116,surface,1/45
 672,104,P_MegaCity_BuildingMerged_5 (3),91.98203,55.71775,179.389191,Collapse,1/46
 673,104,P_MegaCity_BuildingMerged_05_Floor,67.33236,46.9218979,168.203445,surface,1/47
 674,104,P_Megacity_OrnateWallTower_01_Merged,73.30304,53.7215958,234.043091,surface,1/48
